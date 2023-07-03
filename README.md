@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on functional lung imaging.
+- 🔭 I’m currently working on medical imaging with a focus on functional lung imaging.
 - 🌱 I’m currently learning Python & Rust.
 - 🎓 Find my work: https://scholar.google.com/citations?user=7RQsmAkAAAAJ&hl=en
 - 📫 How to reach me: https://www.linkedin.com/in/efe-il%C4%B1cak-7750b368
